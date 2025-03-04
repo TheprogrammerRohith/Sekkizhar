@@ -1,0 +1,9 @@
+{
+  "name": "AuthApp",
+  "displayName": "AuthApp",
+  "extra": {
+    "eas": {
+      "projectId": "63016bc5-d1ae-482b-841d-8bd036c16d6a"
+    }
+  }
+}
